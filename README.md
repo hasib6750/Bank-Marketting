@@ -6,9 +6,6 @@ This project uses the Bank Marketing dataset to analyze marketing strategies and
 ### Dataset Source
 [Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
-### References
-- List item 1
-- List item 2
 
 ### Libraries Used
 - Python (pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, lightgbm)
